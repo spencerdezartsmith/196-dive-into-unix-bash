@@ -5,6 +5,7 @@ Team-name: mellow-goldeneye
 Author: [@spencerdezartsmith, Spencer Smith](https://github.com/spencerdezartsmith)
 
 JS Dev Link:
+https://jsdev.learnersguild.org/goals/196-Dive_Into_UNIX_and_Bash.html
 
 Review Link:
 https://github.com/spencerdezartsmith/196-dive-into-unix-bash.git
