@@ -8,7 +8,7 @@ if [ $# -eq 1 ]; then
 
 	# set up initially incorrect guess:
 	guess=0
-	
+
 	# check guesses count
 	count=0
 
