@@ -1,4 +1,5 @@
 #!/bin/bash
+# Create a Bash script which will print a message based upon which day of the week it is (eg. 'Happy hump day' for Wedensday, 'TGIF' for Friday etc).
 
 DOW=$(date +%u)
 

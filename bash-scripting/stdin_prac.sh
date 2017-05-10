@@ -1,4 +1,5 @@
 #!/bin/bash
+# Create a script which will take data from STDIN and print the 3rd line only.
 
 echo This is the 3rd line of the file:
 echo ==================================
