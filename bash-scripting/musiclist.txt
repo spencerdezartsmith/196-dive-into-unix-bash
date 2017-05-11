@@ -1,0 +1,28 @@
+total 283904
+-rw-r--r--@ 1 spencerdezartsmith  staff    10M Feb  9 14:12 01 Putariiiaaa.m4a
+-rw-r--r--@ 1 spencerdezartsmith  staff    12M Feb  9 14:11 01 Samba No Pe (Extended Mix) [feat. Kelly Pink].m4a
+-rw-r--r--  1 spencerdezartsmith  staff   5.5M Feb  7  2011 02 Bird Walk.mp3
+-rw-r--r--  1 spencerdezartsmith  staff    37M Dec 26 19:02 1-A_Tribe_Called_Red_-_Electric_Pow_Wow_Drum - 2A - 133.35.wav
+-rw-r--r--  1 spencerdezartsmith  staff   1.6M Feb  8 14:32 128 Fake Blood - I Think I Like It [ Dj Dan Remix ] groove Return.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.9M Feb  9 13:28 50 Cent - P.I.M.P. (Afro Bros Remix).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   2.4M Feb  8 13:11 BUENA Y GUAPA ____ 1ST TREAGGAETON SONG IN HISTORY ___.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.3M Feb  8 13:32 Bae Be Boom - Merca Bae.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   2.8M Feb  9 14:07 Baiana (Danubio, Ricardo Lima & Smoking London Remix)Radio Edit  Barbatuques [Soundtrack Trash].mp3
+-rw-r--r--  1 spencerdezartsmith  staff   5.3M Feb  9 14:07 Barbatuques - Baiana (Danubio, Ricardo Lima & Smoking London Remix).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   2.9M Mar 26 01:54 Beyonce - Yonce [Electric Bodega Trap Remix].mp3
+-rw-r--r--  1 spencerdezartsmith  staff   2.7M Feb  8 13:34 DJ SALTY Tic Toc (BANG BING).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   1.7M Feb  9 14:29 DJ Smallz 732 - Catch Me Outside ( How Bout Dat ).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   4.1M Feb  8 13:19 Disclosure - Omen (Red Bro ∆ Remix).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   2.9M Feb  8 12:50 Dj Sliink - Put Cha Back (Ida Dillan Temperature Edit).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.1M Feb  8 14:03 Florentino - Llamada.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.1M Feb  8 14:02 Los Teke Teke - Deja Tu Estres.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.9M Feb  9 13:26 Mastiksoul & Afro Bros - Dança Do Bumbum.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   4.5M Feb  9 14:31 Original Don (Crookers Remix Gunedit).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   4.5M Feb  8 15:01 Premiere_ Leftfield - Afro Left (Melé Edit).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.8M Feb  8 13:08 R.Kelly - Thoia Thoing (Ida Dillan Sad Mary J Edit) DL in description.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   2.4M Feb  8 13:34 Spice - Back Bend.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.2M Feb  9 15:02 The Partysquad - Dat Is Dat Ding (Jack & Lewis Remix).mp3
+-rw-r--r--@ 1 spencerdezartsmith  staff   4.1M Mar  1 20:35 There Some Whores In This House 2017.mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.0M Feb  8 14:01 Tigre (Broad City Soundtrack Exclusive).mp3
+-rw-r--r--  1 spencerdezartsmith  staff   1.9M Feb  9 15:02 Will Clarke - Booty Percolatin [DIRTYBIRD].mp3
+-rw-r--r--  1 spencerdezartsmith  staff   3.3M Feb  8 13:55 Wisin Y Yandel_Meek Mill- Rakata Party (Kamixlo Bootleg).mp3
