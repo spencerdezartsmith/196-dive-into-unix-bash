@@ -1,5 +1,6 @@
 #!/bin/bash
 # Use a function in a script
+# Pass in a file
 
 lines-in-file () {
 	cat $1 | wc -l

@@ -1,5 +1,6 @@
 #!/bin/bash
 # Take a one arg: filename and report whether that file exists
+# Pass in a file
 
 if [ $# -eq 1 ]
 then
