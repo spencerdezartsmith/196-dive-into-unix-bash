@@ -1,5 +1,6 @@
 #!/bin/bash
 # Create a Bash script which will take 2 numbers as command line arguments. It will print to the screen the larger of the two numbers.
+# Pass in two nums
 
 if [ $1 -gt $2 ]
 then

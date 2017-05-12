@@ -1,5 +1,6 @@
 #!/bin/bash
-# Create a simple guessing game. Take one arguement and check if num is eq to a randomly generated num.
+# Create a simple guessing game. Take one argument and check if num is eq to a randomly generated num.
+
 
 if [ $# -eq 1 ]; then
 	# get a random number between 0 and $1 - 1 inclusive:
